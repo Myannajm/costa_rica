@@ -14,9 +14,6 @@
 			<p> Pura Vida with Myanna is a lifestyle blog documenting my year living abroad in Costa Rica as an American. It contains my travel and accomodation plans, places I visited, tips and tricks I wish I had known, hidden cultural gems, and so much more! Pura Vida with Myanna is an accumulation of all the culture and experiences I had, in order to help you experience la pura vida de costa rica!</p>
 		</div>
 	<div>
-		<div class="footer">
-			<div class="link"><a href= "https://github.com/Myannajm/costarica.git">Want to know how we did it? Click here for the code!</a></div>
-		</div>
 </div>
 </div>
 </div>
