@@ -18,9 +18,6 @@
     <h3>Safety</h3>
     <p>Costa Rica is fairly safe, however, newcomers must be careful and practice common sense precautions when traveling in the country. The U.S. Department of State advises travelers to exercise increased caution in Costa Rica due to crime. The advisory states that while petty crime is the main threat for visitors in Costa Rica, violent crime does occur in the country. Safety tips include being aware of your surroundings, not displaying signs of wealth and not physically resisting a robbery attempt.</p>
     </div>
-    <div class="footer">
-      <div class="link"><a href= "https://github.com/Myannajm/costarica.git">Want to know how we did it? Click here for the code!</a></div>
-    </div>
     </div>
 </template>
 <script>

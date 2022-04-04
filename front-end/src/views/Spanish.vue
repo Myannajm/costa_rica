@@ -17,9 +17,6 @@
             <div id="wordDefinition"></div>
     </div>
     </div>
-    <div class="footer">
-    <div class="link"><a href= "https://github.com/Myannajm/costarica.git">Want to know how we did it? Click here for the code!</a></div>
-    </div>
     </div>
 </template>
 

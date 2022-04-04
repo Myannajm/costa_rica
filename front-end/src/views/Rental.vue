@@ -20,9 +20,6 @@
     <p>Mansita Studio is a bright and welcoming studio, part of the Tamarindo Mountain Retreat family of rentals. It is semi-detached to the main house with a private entrance, bathroom and kitchenette.
       The property boasts incredible ocean views and breathtaking sunsets with a large shared pool and all nestled in a beautifully jungle landscape and only 5 minutes away from the center of Tamarindo and the beach! Monthly Rent: $1,244 USD</p>
   </div>
-  <div class="footer">
-    <div class="link"><a href= "https://github.com/Myannajm/costarica.git">Want to know how we did it? Click here for the code!</a></div>
-  </div>
     </div>
 </template>
 <script>

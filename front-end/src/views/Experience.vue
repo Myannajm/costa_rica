@@ -36,9 +36,6 @@
     <div id="photo"><img src="/images/costarica11.jpg" alt="costa rica beachfront" style= "height:400px; width:75%"></div>
     <p>Dominical is a tropical backpacker's haven, with dirt streets, beautiful beaches, cheap accommodation, casual open-air restaurants, and a great vibe. Domincal is one of the best places in Costa Rica for surfing. Surfers who come here find it hard to leave, and visits often turn into extended stays.</p>
 </div>
-<div class="footer">
-  <div class="link"><a href= "https://github.com/Myannajm/costarica.git">Want to know how we did it? Click here for the code!</a></div>
-</div>
     </div>
 </template>
 <script>
